@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RaporluDosyalariCalistirma">
+    <test name="Toplu calistirmada rapor">
+        
+      <classes>
+          <class name="tests.day18_testNGReports.C01_RaporluAmazonSearchTesti"></class>
+          <class name="tests.day18_testNGReports.C02"></class>
+      </classes>
+    </test>
+</suite>
+       
